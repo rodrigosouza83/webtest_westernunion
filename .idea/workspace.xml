@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba595360-bb94-4eec-be92-e92920bb3a84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Substep Feature" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g9vIoEhUomPzEXEEl9md5lDRIO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/steps_definitions/CadastroStepsDef.java" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/test/features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginSteps">
+    <configuration name="CadastroSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CadastroSteps" />
+      <module name="automacao_testesWeb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: cadastro" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/steps_definitions/CadastroStepsDef.java" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="automacao_testesWeb" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: cadastro" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/login.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="automacao_testesWeb" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadastroSteps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao_testesWeb" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CadastroSteps" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginSteps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao_testesWeb" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginSteps" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="automacao_testesWeb" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CadastroSteps" />
+      <item itemvalue="Cucumber Java.Feature: cadastro" />
+      <item itemvalue="Cucumber Java.Feature: login" />
+      <item itemvalue="JUnit.Runner" />
+      <item itemvalue="JUnit.CadastroSteps" />
+      <item itemvalue="JUnit.LoginSteps" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginSteps" />
+        <item itemvalue="JUnit.CadastroSteps" />
+        <item itemvalue="Cucumber Java.Feature: cadastro" />
+        <item itemvalue="Cucumber Java.Feature: login" />
+        <item itemvalue="Application.CadastroSteps" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba595360-bb94-4eec-be92-e92920bb3a84" name="Default Changelist" comment="" />
+      <created>1597539545455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597539545455</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="8" width="800" height="720" key="#Intentions" timestamp="1597545222354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="8" width="800" height="720" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1597545222354" />
+    <state x="260" y="0" width="826" height="723" key="#Runner" timestamp="1597540556823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="260" y="0" width="826" height="723" key="#Runner/0.0.1366.728@0.0.1366.728" timestamp="1597540556823" />
+    <state x="411" y="119" width="524" height="479" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1597540312809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="411" y="119" width="524" height="479" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597540312809" />
+    <state x="141" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597607733345">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="141" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597607733345" />
+    <state x="415" y="156" width="525" height="409" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597607717190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="415" y="156" width="525" height="409" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1597607717190" />
+    <state x="456" y="117" width="424" height="479" key="FileChooserDialogImpl" timestamp="1597607730633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="456" y="117" width="424" height="479" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597607730633" />
+    <state width="1324" height="494" key="GridCell.Tab.0.bottom" timestamp="1597614474273">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="494" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597614474273" />
+    <state width="1324" height="494" key="GridCell.Tab.0.center" timestamp="1597614474272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="494" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597614474272" />
+    <state width="1324" height="494" key="GridCell.Tab.0.left" timestamp="1597614474271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="494" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597614474271" />
+    <state width="1324" height="494" key="GridCell.Tab.0.right" timestamp="1597614474273">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="494" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597614474273" />
+    <state width="1324" height="251" key="GridCell.Tab.1.bottom" timestamp="1597606374973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="251" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597606374973" />
+    <state width="1324" height="251" key="GridCell.Tab.1.center" timestamp="1597606374972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="251" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597606374972" />
+    <state width="1324" height="251" key="GridCell.Tab.1.left" timestamp="1597606374972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="251" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597606374972" />
+    <state width="1324" height="251" key="GridCell.Tab.1.right" timestamp="1597606374973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="251" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597606374973" />
+    <state x="211" y="19" width="924" height="679" key="Maven.ArtifactSearchDialog" timestamp="1597606220012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="211" y="19" width="924" height="679" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1597606220012" />
+    <state x="182" y="0" key="SettingsEditor" timestamp="1597606348714">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="182" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597606348714" />
+    <state x="432" y="286" width="492" height="151" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1597606284602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="286" width="492" height="151" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1597606284602" />
+  </component>
+</project>
